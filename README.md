@@ -1,0 +1,2 @@
+# shopware-plugin
+Pluginentwicklung
